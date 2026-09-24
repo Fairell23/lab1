@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
     float x;
     printf("Enter your digit: ");
